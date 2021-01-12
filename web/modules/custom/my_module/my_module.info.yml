@@ -1,5 +1,0 @@
-name: My Custom Module
-description: This is my new module
-package: Custom
-type: module
-core_version_requirement: 9.x

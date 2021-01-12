@@ -1,0 +1,5 @@
+entity.mar_module.collection:
+  title: 'Maria Module Contact Log'
+  description: 'See the log for the contact form.'
+  parent: system.admin_structure
+  route_name: mar_module.content

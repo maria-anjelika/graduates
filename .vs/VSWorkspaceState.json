@@ -4,11 +4,10 @@
     "\\web",
     "\\web\\modules",
     "\\web\\modules\\custom",
-    "\\web\\modules\\custom\\my_module",
-    "\\web\\modules\\custom\\my_module\\src",
-    "\\web\\modules\\custom\\my_module\\src\\Controller",
-    "\\web\\modules\\custom\\my_module\\src\\Form"
+    "\\web\\modules\\custom\\mar_module",
+    "\\web\\modules\\custom\\mar_module\\src",
+    "\\web\\modules\\custom\\mar_module\\src\\Controller"
   ],
-  "SelectedNode": "\\web\\modules\\custom\\my_module\\src\\Form\\MyConfigForm.php",
+  "SelectedNode": "\\web\\modules\\custom\\mar_module\\src\\Controller\\mController.php",
   "PreviewInSolutionExplorer": false
 }

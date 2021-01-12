@@ -1,0 +1,7 @@
+mar_module.content:
+  path: '/admin/mariamodule'
+  defaults:
+    _controller: '\Drupal\mar_module\Controller\mController::content'
+    _title: 'Maria Module Contact Log'
+  requirements:
+    _permission: 'administer'
