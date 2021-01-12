@@ -3,7 +3,10 @@
     "",
     "\\web",
     "\\web\\modules",
-    "\\web\\modules\\contrib"
+    "\\web\\modules\\custom",
+    "\\web\\modules\\custom\\my_module",
+    "\\web\\modules\\custom\\my_module\\src"
   ],
+  "SelectedNode": "\\web\\modules\\custom\\my_module\\my_module.routing.yml",
   "PreviewInSolutionExplorer": false
 }
