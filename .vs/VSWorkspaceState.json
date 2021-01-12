@@ -5,8 +5,10 @@
     "\\web\\modules",
     "\\web\\modules\\custom",
     "\\web\\modules\\custom\\my_module",
-    "\\web\\modules\\custom\\my_module\\src"
+    "\\web\\modules\\custom\\my_module\\src",
+    "\\web\\modules\\custom\\my_module\\src\\Controller",
+    "\\web\\modules\\custom\\my_module\\src\\Form"
   ],
-  "SelectedNode": "\\web\\modules\\custom\\my_module\\my_module.routing.yml",
+  "SelectedNode": "\\web\\modules\\custom\\my_module\\src\\Form\\MyConfigForm.php",
   "PreviewInSolutionExplorer": false
 }
