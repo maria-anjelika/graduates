@@ -4,10 +4,8 @@
     "\\web",
     "\\web\\modules",
     "\\web\\modules\\custom",
-    "\\web\\modules\\custom\\mar_module",
-    "\\web\\modules\\custom\\mar_module\\src",
-    "\\web\\modules\\custom\\mar_module\\src\\Controller"
+    "\\web\\modules\\custom\\my_module"
   ],
-  "SelectedNode": "\\web\\modules\\custom\\mar_module\\src\\Controller\\mController.php",
+  "SelectedNode": "\\web\\modules\\custom\\my_module\\my_module.links.menu.yml",
   "PreviewInSolutionExplorer": false
 }

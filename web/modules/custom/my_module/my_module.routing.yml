@@ -1,0 +1,7 @@
+my_module.content:
+  path: '/admin/mymodule'
+  defaults:
+    _controller: '\Drupal\my_module\Controller\mController::content'
+    _title: 'Module Contact Log'
+  requirements:
+    _permission: 'administer'

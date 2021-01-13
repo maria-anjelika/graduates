@@ -1,0 +1,5 @@
+entity.my_module.collection:
+  title: 'Module Contact Log'
+  description: 'See the log for the contact form.'
+  parent: system.admin_structure
+  route_name: my_module.content
